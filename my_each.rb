@@ -9,4 +9,6 @@ array
 end 
 
 my_each(array) do |number|
+  puts number
+end 
   
